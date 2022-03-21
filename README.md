@@ -35,6 +35,6 @@ Note that you should commit your changes into the public and open a PR only _aft
 
 ### Author Archive
 
-| **Week** | **Author(s)** | **Challenge(s)** |
-|----------|---------------|------------------|
-|          |               |                  |
+| **Week** | **Author(s)** |                       **Challenge(s)**                       |
+| :------: | :-----------: | :----------------------------------------------------------: |
+|  Week 1  |  Arrow#1334   | babyrsa (cryptography), 5kr1p7-k1dd13-RS4 (cryptography), Secrets of Alice and Bob (cryptography) |
